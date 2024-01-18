@@ -9,6 +9,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03-cap_gestion_de_tablas", 
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04-cap_recuperacion_de_datos", "04-cap_recuperacion_de_datos\04-cap_recuperacion_de_datos.ssmssqlproj", "{09281B3E-CA2E-40F1-A7A0-81CCC75DDFB9}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05-cap_transact_sql", "05-cap_transact_sql\05-cap_transact_sql.ssmssqlproj", "{302CD33F-E583-4E4E-B336-1C65D311A3E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -16,8 +18,9 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{77209EED-8920-4A66-A9F3-C311E04E6119}.Default|Default.ActiveCfg = Default
 		{CBD8D7B3-249E-4DCD-A348-CB2D29F6F8D6}.Default|Default.ActiveCfg = Default
-		{957FEA75-2D49-4454-8041-DED14110E4B7}.Default|Default.ActiveCfg = Default
 		{09281B3E-CA2E-40F1-A7A0-81CCC75DDFB9}.Default|Default.ActiveCfg = Default
+		{ED2F531A-4A3A-4AE5-8894-5ED920EBBA96}.Default|Default.ActiveCfg = Default
+		{302CD33F-E583-4E4E-B336-1C65D311A3E5}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

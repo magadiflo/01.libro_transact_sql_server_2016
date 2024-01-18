@@ -37,6 +37,18 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>03.vistas.sql</FullPath>
         </FileNode>
+        <FileNode Name="04.vistas_mantenimiento.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>04.vistas_mantenimiento.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.vistas_consultas_complejas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-EGDL8Q6\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-EGDL8Q6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>05.vistas_consultas_complejas.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">

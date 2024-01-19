@@ -13,6 +13,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05-cap_transact_sql", "05-c
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06-cap_procedimientos_almacenados", "06-cap_procedimientos_almacenados\06-cap_procedimientos_almacenados.ssmssqlproj", "{DE14400E-629A-4E92-AEEC-5FFE9D582E02}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07-cap_funciones", "07-cap_funciones\07-cap_funciones.ssmssqlproj", "{6D45D0F2-AE39-4CE6-B824-4B87DB86DB3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -22,8 +24,9 @@ Global
 		{CBD8D7B3-249E-4DCD-A348-CB2D29F6F8D6}.Default|Default.ActiveCfg = Default
 		{09281B3E-CA2E-40F1-A7A0-81CCC75DDFB9}.Default|Default.ActiveCfg = Default
 		{302CD33F-E583-4E4E-B336-1C65D311A3E5}.Default|Default.ActiveCfg = Default
-		{BCA4CE44-9016-4A30-83D7-FA43BEFE9A9F}.Default|Default.ActiveCfg = Default
 		{DE14400E-629A-4E92-AEEC-5FFE9D582E02}.Default|Default.ActiveCfg = Default
+		{6D45D0F2-AE39-4CE6-B824-4B87DB86DB3F}.Default|Default.ActiveCfg = Default
+		{FC7B12C0-BD88-4599-9CDF-3929AB2B7B42}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

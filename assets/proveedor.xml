@@ -1,0 +1,26 @@
+<proveedores>
+	<proveedor>
+		<cod_prv>P0034</cod_prv>
+		<cod_dis>D003</cod_dis>
+		<rso_prv>MAYORSA</rso_prv>
+		<dir_prv>AV. EL SOL 545</dir_prv>
+		<tel_prv>586-9685</tel_prv>
+		<rep_prv>JOSÉ MARTINEZ</rep_prv>
+	</proveedor>
+	<proveedor>
+		<cod_prv>P0035</cod_prv>
+		<cod_dis>D004</cod_dis>
+		<rso_prv>MERCADOS PERÚ</rso_prv>
+		<dir_prv>AV. LIMA 7856</dir_prv>
+		<tel_prv>345-9354</tel_prv>
+		<rep_prv>MARK TERENE</rep_prv>
+	</proveedor>
+	<proveedor>
+		<cod_prv>P0036</cod_prv>
+		<cod_dis>D005</cod_dis>
+		<rso_prv>MOBIL SAC</rso_prv>
+		<dir_prv>AV. LAS PALMERAS 545</dir_prv>
+		<tel_prv>446-5445</tel_prv>
+		<rep_prv>JUAN RYTORES</rep_prv>
+	</proveedor>
+</proveedores>

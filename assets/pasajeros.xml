@@ -1,0 +1,14 @@
+<pasajeros>
+	<pasajero>
+		<idpasajero>P0004</idpasajero>
+		<email>elocuent@gmail.com</email>
+	</pasajero>
+	<pasajero>
+		<idpasajero>P0005</idpasajero>
+		<email>java@gmail.com</email>
+	</pasajero>
+	<pasajero>
+		<idpasajero>P0006</idpasajero>
+		<email>php@gmail.com</email>
+	</pasajero>
+</pasajeros>

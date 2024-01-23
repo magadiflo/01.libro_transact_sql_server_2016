@@ -1,0 +1,12 @@
+<clientes>
+	<cliente>
+		<codigo>CL001</codigo>
+		<rsocial>LIMA-TEEN SAC</rsocial>
+		<rsocial>LIMA-TEEN SRLTDA</rsocial>
+	</cliente>
+	<cliente>
+		<codigo>CL002</codigo>
+		<rsocial>PERU TEEN SAC</rsocial>
+		<rsocial>PERU TEEN SRLTDA</rsocial>
+	</cliente>
+</clientes>

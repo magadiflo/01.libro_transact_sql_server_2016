@@ -19,12 +19,13 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08-cap_cursores", "08-cap_c
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09-cap_triggers", "09-cap_triggers\09-cap_triggers.ssmssqlproj", "{CB552D74-280D-45C1-A40F-26F83DE8CD9B}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10-cap_xml_con_sql_e_imagenes", "10-cap_xml_con_sql_e_imagenes\10-cap_xml_con_sql_e_imagenes.ssmssqlproj", "{10C28AB2-FB5B-4CBA-8077-16377BFBD763}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{678D5D30-1C96-4671-A5D8-50DA7CD282D9}.Default|Default.ActiveCfg = Default
 		{77209EED-8920-4A66-A9F3-C311E04E6119}.Default|Default.ActiveCfg = Default
 		{CBD8D7B3-249E-4DCD-A348-CB2D29F6F8D6}.Default|Default.ActiveCfg = Default
 		{09281B3E-CA2E-40F1-A7A0-81CCC75DDFB9}.Default|Default.ActiveCfg = Default
@@ -33,6 +34,8 @@ Global
 		{6D45D0F2-AE39-4CE6-B824-4B87DB86DB3F}.Default|Default.ActiveCfg = Default
 		{8C2C6007-A718-4AFE-9A30-A383142E215B}.Default|Default.ActiveCfg = Default
 		{CB552D74-280D-45C1-A40F-26F83DE8CD9B}.Default|Default.ActiveCfg = Default
+		{10C28AB2-FB5B-4CBA-8077-16377BFBD763}.Default|Default.ActiveCfg = Default
+		{DDA75F69-0890-4B13-9F94-1A41C057EFA6}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

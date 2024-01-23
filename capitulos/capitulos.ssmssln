@@ -15,6 +15,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06-cap_procedimientos_almac
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07-cap_funciones", "07-cap_funciones\07-cap_funciones.ssmssqlproj", "{6D45D0F2-AE39-4CE6-B824-4B87DB86DB3F}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08-cap_cursores", "08-cap_cursores\08-cap_cursores.ssmssqlproj", "{8C2C6007-A718-4AFE-9A30-A383142E215B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -26,7 +28,8 @@ Global
 		{302CD33F-E583-4E4E-B336-1C65D311A3E5}.Default|Default.ActiveCfg = Default
 		{DE14400E-629A-4E92-AEEC-5FFE9D582E02}.Default|Default.ActiveCfg = Default
 		{6D45D0F2-AE39-4CE6-B824-4B87DB86DB3F}.Default|Default.ActiveCfg = Default
-		{FC7B12C0-BD88-4599-9CDF-3929AB2B7B42}.Default|Default.ActiveCfg = Default
+		{3C74C61F-F882-47A2-BEEC-A527A091E545}.Default|Default.ActiveCfg = Default
+		{8C2C6007-A718-4AFE-9A30-A383142E215B}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
